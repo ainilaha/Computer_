@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1569111411 source:/home/lale/Documents/assignment2/display.cpp
+	"display.h"
+	<iostream>
+	<glm/glm.hpp>
+	"shader.h"
+
+1569111423 /home/lale/Documents/assignment2/display.h
+	<GL/glew.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<string>
+
+1569108654 source:/home/lale/Documents/assignment2/main.cpp
+	"display.h"
+
+1569110579 /home/lale/Documents/assignment2/shader.h
+
+1569109708 source:/home/lale/Documents/assignment2/shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.h"
+
