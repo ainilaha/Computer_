@@ -29,3 +29,12 @@
 	<GL/glew.h>
 	"shader.h"
 
+1569111435 source:/home/lale/Documents/Computer_Graphics/assignment2/main.cpp
+	"display.h"
+
+1569111423 /home/lale/Documents/Computer_Graphics/assignment2/display.h
+	<GL/glew.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<string>
+

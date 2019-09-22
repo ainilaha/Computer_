@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="display.cpp" />
+		<Unit filename="display.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="res/SimpleFragmentShader.fragmentshader" />
+		<Unit filename="res/SimpleVertexShader.vertexshader" />
+		<Unit filename="shader.cpp" />
+		<Unit filename="shader.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
